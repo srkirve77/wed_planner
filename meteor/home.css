@@ -1,0 +1,14 @@
+.row{
+    height:80vh;
+}
+.page-section{
+    height:100vh;
+}
+.card{
+    height:50vh;
+    width:60vh;
+    margin-left: 17vh;
+}
+.nav{
+    color:black;
+}
